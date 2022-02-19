@@ -19,5 +19,8 @@
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
     "web3": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/register": "^7.17.0"
   }
 }
